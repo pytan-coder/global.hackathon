@@ -1,8 +1,8 @@
 This is our page
 ================
 
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
+We are Insomnia! 
+A group of international coders who banded together to have fun and learn while coding and attempting to solve problems.
 
 
 About your team
