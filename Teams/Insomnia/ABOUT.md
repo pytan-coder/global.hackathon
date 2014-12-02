@@ -8,9 +8,9 @@ A group of international coders who banded together to have fun and learn while 
 About your team
 ===========================
 
-We're a group of international coders who decided to band for the "hack" of it all.
+We are composed of three members, scattered across the world, who just recently met and banded for Koding's Hackathon.
 
-Arvin Joseff Tan
+<b> Arvin Joseff Tan </b>
 
 I've decided to join this hacKaThon to
 
